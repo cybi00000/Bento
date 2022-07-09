@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'MAL',
+					link: 'https://myanimelist.net',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Anilist',
+					link: 'https://anilist.co',
 				},
 				{
 					name: 'Trello',
