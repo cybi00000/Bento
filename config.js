@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'MAL',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://myanimelist.net',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Anilist',
+			icon: 'list-video',
+			link: 'https://anilist.co',
 		},
 		{
 			id: '5',
