@@ -61,19 +61,19 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://gmail.com/',
 		},
 		{
 			id: '3',
-			name: 'MAL',
-			icon: 'trello',
-			link: 'https://myanimelist.net',
+			name: 'G-Drive',
+			icon: 'hard-drive',
+			link: 'https://drive.google.com/drive/',
 		},
 		{
 			id: '4',
-			name: 'Anilist',
-			icon: 'list-video',
-			link: 'https://anilist.co',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'shopping-cart',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Amazon',
+					link: 'https://www.amazon.in/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'E-bay',
+					link: 'https://www.ebay.in',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Myntra',
+					link: 'https://www.myntra.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Bookswagon',
+					link: 'https://www.bookswagon.com/',
 				},
 			],
 		},
@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://anilist.co',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Animixplay',
+					link: 'https://animixplay.to',
 				},
 				{
 					name: 'Slack',
