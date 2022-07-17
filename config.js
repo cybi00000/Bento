@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://animixplay.to',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Manganato',
+					link: 'https://manganato.com',
 				},
 			],
 		},
